@@ -318,13 +318,6 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
-
-**B.N. Meenakshi**
-B.Tech Final Year
-Full Stack Developer | Data Analytics Enthusiast
-
----
 
 ## 📜 License
 
